@@ -31,4 +31,13 @@ Create an apparatus capable of:
 * Concurrently printing bioink suspended into the support material or cavities therein.  Print quality is not necessary for this phase as the prior two objectives are the main requirements for a successful proof-of-concept apparatus.
 
 ## TLDR:
+
 This is an experimental bioprinter concept that aims to print a container and gel support material layer by layer while printing the squishy fragile biological bits that wouldn't print well on their own.  Tecniques like this are necessary to improve the resolution of bioprinting... which is hella necessary to print really important bits to save lives like _hearts_ and _lungs_; parts that we simply can't make with the current tech.
+
+## Why this is open source
+
+I know that IP is very important to some people and they wouldn't work on a project if there wasn't a patent at the end of the tunnel... no shade on them, but the way I see it, the ability to create organs on demand is bigger than any of us: it's bigger than you, or me, or any company.  It's something that represents the next stage of human medicine.  It's something that opens the next door towards a world where se don't get sick, or at least don't stay sick.  A world where people don't have to die anymore.  I want to see that world; I want us _all_ to live to see that world.  A world where we can have all the time in the world to do anything and __everything__ we set our hearts on.  A world where I have the time to leard to play Rach 2 ( the best piece of music ever.  yup, I just went there :P ).  A time where the explorers out ther have time to see all the planets, moons, and beyond.  A world where saying goodbye only really meas *for now*.  
+
+We can do it.  We put a man on the moon.  We made a new way of making vaccines and a new vaccine in under 18 months because the world was dying.  If we can do that, we can do this.
+
+It would be downright selfish of me to make anyhing I contribute to this cause _anything but_ open source.  I want to just do my part to further this mission in the hopes that the people way smarter than me can find something of value in my contributions.  Something that they can take and make better to make that world a reality.
