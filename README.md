@@ -46,7 +46,7 @@ Create an apparatus capable of:
 
 This is an experimental bioprinter concept that aims to print a container and gel support material layer by layer while printing the squishy fragile biological bits that wouldn't print well on their own inside of that support.  Tecniques like this ( as well as many other approaches ) are necessary to improve the resolution of bioprinting... which is hella necessary to print really important bits to save lives like _hearts_ and _lungs_; parts that we simply can't make with the current tech.
 
-* yea, I said hella... I'm a millenial afterall *
+yea, I said hella... I'm a millenial afterall, and this section I don't have to talk all science-y
 
 ## Why this is open source
 
