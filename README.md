@@ -1,7 +1,8 @@
 # Prometheus
 _( just a cool project name... look up the mythology and you'll see why )_
 
-## Project desctiption for scientists [ the cool people :) ]
+## Project desctiption for scientists & engineers
+_[ the cool people :) ]_
 
 _TLDR below for everyone else :/_
 
