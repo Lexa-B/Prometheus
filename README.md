@@ -1,4 +1,5 @@
-# Prometheus ( just a cool project name... look up the mythology and you'll see why
+# Prometheus
+_( just a cool project name... look up the mythology and you'll see why )_
 
 ## Project desctiption for scientists [ the cool people :) ]
 
