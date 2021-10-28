@@ -32,6 +32,16 @@ Create an apparatus capable of:
 * Laying down multiple common support bath hydrogel materials concurrently to printing.  A good balance of speed of application versus minimal disturbance of underlying layers must be achievable for the apparatus to be viable for printing applications.  At least one type of support material should be able to be applied, but greater than three is preferred as different types of support materials are commonly selected depending on the use case.
 * Concurrently printing bioink suspended into the support material or cavities therein.  Print quality is not necessary for this phase as the prior two objectives are the main requirements for a successful proof-of-concept apparatus.
 
+### Bibliography
+
+1.	Xie, Z.T., D.H. Kang, and M. Matsusaki, Resolution of 3D bioprinting inside bulk gel and granular gel baths. Soft Matter, 2021.
+2.	Ramadan, Q. and M. Zourob, 3D Bioprinting at the Frontier of Regenerative Medicine, Pharmaceutical, and Food Industries. Frontiers in Medical Technology, 2021. 2(25).
+3.	Corbett, D.C., E. Olszewski, and K. Stevens, A FRESH Take on Resolution in 3D Bioprinting. Trends in Biotechnology, 2019. 37(11): p. 1153-1155.
+4.	Ravanbakhsh, H., et al., Emerging Technologies in Multi-Material Bioprinting. Advanced Materials: p. 38.
+5.	Kwan, J.G., Design of electronics for a high-resolution, multi-material, and modular 3D printer, in Department of Electrical Engineering and Computer Science. 2013, Massachusetts Institute of Technology: Massachusetts Institute of Technology. p. 68 pages.
+6.	Männel, M.J., C. Fischer, and J. Thiele, A Non-Cytotoxic Resin for Micro-Stereolithography for Cell Cultures of HUVECs. Micromachines, 2020. 11(3): p. 246.
+7.	Highley, C.B., C.B. Rodell, and J.A. Burdick, Direct 3D Printing of Shear-Thinning Hydrogels into Self-Healing Hydrogels. Advanced Materials, 2015. 27(34): p. 5075-5079.
+
 ## TLDR:
 
 This is an experimental bioprinter concept that aims to print a container and gel support material layer by layer while printing the squishy fragile biological bits that wouldn't print well on their own.  Tecniques like this are necessary to improve the resolution of bioprinting... which is hella necessary to print really important bits to save lives like _hearts_ and _lungs_; parts that we simply can't make with the current tech.
