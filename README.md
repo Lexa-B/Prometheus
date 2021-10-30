@@ -2,9 +2,6 @@
 _( just a cool project name... look up the mythology and you'll see why )_
 
 ## Project desctiption for scientists & engineers
-_[ the cool people :) ]_
-
-_TLDR below for everyone else :/_
 
 __Concurrent synthesis of support structure and biomaterial to enable non-suspension-based printing of volumetric biological constructs__
 
