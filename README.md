@@ -3,6 +3,8 @@ _( just a cool project name... look up the mythology and you'll see why )_
 
 ## Project desctiption for scientists & engineers
 
+_TLDR below_
+
 __Concurrent synthesis of support structure and biomaterial to enable non-suspension-based printing of volumetric biological constructs__
 
 Authors: Lexa Baldwin ( more to come in time )
