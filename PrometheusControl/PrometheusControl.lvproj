@@ -15,13 +15,15 @@
 			<Item Name="GetNextFloat.vi" Type="VI" URL="../GetNextFloat.vi"/>
 		</Item>
 		<Item Name="MainControl.vi" Type="VI" URL="../MainControl.vi"/>
-		<Item Name="MainControl, FSM proto.vi" Type="VI" URL="../MainControl, FSM proto.vi"/>
 		<Item Name="State.ctl" Type="VI" URL="../State.ctl"/>
+		<Item Name="LEDBlinker.vi" Type="VI" URL="../LEDBlinker.vi"/>
+		<Item Name="StateChg.ctl" Type="VI" URL="../StateChg.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="VISA Configure Serial Port" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port"/>
 				<Item Name="VISA Configure Serial Port (Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Instr).vi"/>
 				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
+				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 			</Item>
 			<Item Name="MarlinSerial – GetTemps.vi" Type="VI" URL="../MarlinSerial – GetTemps.vi"/>
 		</Item>
