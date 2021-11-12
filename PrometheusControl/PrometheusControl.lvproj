@@ -18,6 +18,8 @@
 		<Item Name="State.ctl" Type="VI" URL="../State.ctl"/>
 		<Item Name="LEDBlinker.vi" Type="VI" URL="../LEDBlinker.vi"/>
 		<Item Name="StateChg.ctl" Type="VI" URL="../StateChg.ctl"/>
+		<Item Name="Enqueue if val.vi" Type="VI" URL="../Enqueue if val.vi"/>
+		<Item Name="Dequeue if val.vi" Type="VI" URL="../Dequeue if val.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="VISA Configure Serial Port" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port"/>
