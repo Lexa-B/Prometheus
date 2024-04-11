@@ -7,7 +7,7 @@ _TLDR below_
 
 __Concurrent synthesis of support structure and biomaterial to enable non-suspension-based printing of volumetric biological constructs__
 
-Authors: Lexa Baldwin ( more to come in time )
+Authors: Lexa Baldwin ORCID: 0000-0002-3990-2875, Jada Okaikoi
 
 ### Abstract
 In regenerative medicine, there is currently a great focus on the potential of bioprinting for the production of volumetric organs.  Many modalities are available, but the most common at the time of writing entails using a long cylindrical needle to print into a shear-thinning hydrogel to provide constant support for volumetric structures.  Due to the limitations imposed by this method, the maximum resolution is large; refinement of the methodologies of printing volumetric structures is necessary to enable the creation of the micro-scale structures necessary for functioning organs.  The purpose of this research is to test the viability for one such improvement in the process of bioprinting volumetric organs that may reduce the current resolution limitations.
